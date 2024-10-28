@@ -2,7 +2,7 @@ package com.alexmonzon;
 
 public class E02_Conditionals {
 
-    public void condicionales_1() {
+    public void userActive() {
         boolean isActive = true;
         if (isActive) {
             System.out.println("The user is active");
@@ -10,5 +10,16 @@ public class E02_Conditionals {
             System.out.println("The user is notActive");
         }
     }
+
+    public void esMayor(){
+        int edad = 17;
+        if(edad < 18){
+            System.out.println("Es menor");
+        }else if(edad >= 18){
+            System.out.println("Es mayor");
+        }
+    }
+
+
 
 }
