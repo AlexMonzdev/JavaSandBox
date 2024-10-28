@@ -1,4 +1,4 @@
-package com.alexmonzon;
+package com.alexmonzon.basics;
 
 public class E00_Primitives {
 
