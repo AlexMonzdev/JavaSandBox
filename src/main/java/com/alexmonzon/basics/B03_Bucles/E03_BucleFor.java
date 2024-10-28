@@ -1,4 +1,4 @@
-package com.alexmonzon.basics;
+package com.alexmonzon.basics.B03_Bucles;
 
 public class E03_BucleFor {
 

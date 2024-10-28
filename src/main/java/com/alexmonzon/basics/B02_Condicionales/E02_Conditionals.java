@@ -1,4 +1,4 @@
-package com.alexmonzon.basics;
+package com.alexmonzon.basics.B02_Condicionales;
 
 public class E02_Conditionals {
 

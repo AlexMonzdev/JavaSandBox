@@ -1,6 +1,6 @@
 package com.alexmonzon;
 
-import com.alexmonzon.basics.E05_Arrays;
+import com.alexmonzon.basics.B04_Estructuras.E05_Arrays;
 
 public class Main {
     public static void main(String[] args) {

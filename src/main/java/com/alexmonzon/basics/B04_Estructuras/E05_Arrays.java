@@ -1,4 +1,4 @@
-package com.alexmonzon.basics;
+package com.alexmonzon.basics.B04_Estructuras;
 
 import java.util.ArrayList;
 import java.util.Arrays;

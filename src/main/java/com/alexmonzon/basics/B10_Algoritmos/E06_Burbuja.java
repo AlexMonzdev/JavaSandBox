@@ -1,4 +1,4 @@
-package com.alexmonzon.basics;
+package com.alexmonzon.basics.B10_Algoritmos;
 
 public class E06_Burbuja {
 
