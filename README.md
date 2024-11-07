@@ -1,1 +1,1 @@
-Hola Este es el readme de SandBox.
+Teoria Java y ejecicos echos en clase.  

@@ -19,9 +19,12 @@ public class Coche {
         this.km += km;
     }
 
-    public void mostrarInfo(Coche coche){
-        System.out.println("Marca = "+ coche.marca+"\nModelo = "+ coche.modelo+"\nYear  = "+ coche.year+"\nKm = "+coche.km);
+    public String monstrarInfo() {
+        return "Coche{" +
+                "marca='" + marca + '\'' +
+                ", modelo='" + modelo + '\'' +
+                ", year=" + year +
+                ", km=" + km +
+                '}';
     }
-
-
 }

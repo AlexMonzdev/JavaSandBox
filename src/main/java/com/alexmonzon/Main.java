@@ -1,12 +1,28 @@
 package com.alexmonzon;
 
-import com.alexmonzon.basics.B04_Estructuras.E05_Arrays;
+import com.alexmonzon.basics.B11_POO.*;
+
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
 
-      E05_Arrays uno = new E05_Arrays();
-      uno.accessoStreams();
+    List<Vehiculo> vehiculos = List.of(new Coche(), new Camion(), new Moto());
+    Race carrera = new Race(vehiculos);
+    carrera.start();
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
