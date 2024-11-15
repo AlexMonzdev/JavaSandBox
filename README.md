@@ -1,1 +1,1 @@
-Teoria Java y ejecicos echos en clase.  
+Teoria Java y ejecicos hechos en clase.  
